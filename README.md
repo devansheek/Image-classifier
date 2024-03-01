@@ -1,9 +1,6 @@
 ### Flower Classification Project
 
-This project is being done as a part of the AI Programming with Python Nanodegree by Udacity. Attached below are the project details with reference to the rubric provided. This is an ongoing project.
-
-### Project Overview
-
+This project is being done as a part of the AI Programming with Python Nanodegree by Udacity. 
 This project involves training a deep learning model to classify images of flowers. The implementation consists of two main parts:
 
 ### Part 1 - Development Notebook
